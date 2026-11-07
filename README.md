@@ -55,5 +55,3 @@ Birthday-Wish-Card/
 <h4>💝 Message Area</h4>
 <img src="preview3.png" alt="Preview 3" width="500">
 
-<h2>💬 Special Thanks</h2>
-<p>Made with ❤️ by <a href="https://github.com/engrshuvodas" target="_blank">Shuvo Das</a> — because love deserves more than just a simple message.</p>
